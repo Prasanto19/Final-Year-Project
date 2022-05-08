@@ -13,4 +13,7 @@ This is an application which is helpful for the people who are disabled.
 The foremost spectators for this program are people who do not have 
 committed control of a hand but who can only move their head.
 
-**Tools** : Python, OpenCV
+**Programming Language** : Python
+**Library** : OpenCV
+**Camera** : Webcam
+**Version Control System** : Github
